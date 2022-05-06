@@ -36,3 +36,16 @@ const data = [
 
 // COMEÇA O EXERCÍCIO
 
+
+for (let i = 0; i < data.length; i++) {
+    let filme = data[i]
+    console.log(filme.name)
+    console.log(filme.description)
+
+    let tipos = filme.types
+
+    for (let j = 0; j < tipos.length; j++) {        
+        console.log(tipos[j])
+  }
+  
+  }

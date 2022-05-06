@@ -1,31 +1,33 @@
 # ON15-TET-S6-Nodejs
-Turma Online Todas em Tech - Back-end | Semana 6: Introdução à API: HTTP e NodeJS
 
-Para a execução dessa aula vocês precisam realizar o FORK desse repositório e clonar SEU repositório forcado em sua máquina.
+Feitos os desafios propostos na aula anterior
 
-## 👩‍💻 TODO list
-- [ ] Modelo Server/Client
-- [ ] URL, URI, IP e DNS
-- [ ] Protocolo HTTP e HTTPS
-- [ ] Request e Response
-- [ ] Interface de Programação de aplicativos
-- [ ] Web APIs e Rest
-- [ ] Manipulação de JSONs
-- [ ] Consumindo web APIs
-- [ ] Para o Lar
+## Vimos em aula: 
+- [x] Modelo Server/Client
+- [x]  URL, URI, IP e DNS
+- [x]  Protocolo HTTP e HTTPS
+- [x]  Request e Response
+- [x]  Interface de Programação de aplicativos
+- [x]  Web APIs e Rest
+- [x]  Manipulação de JSONs
+- [x]  Consumindo web APIs
+- [x]  Para o Lar
 
-## 👩‍💻 Para o Lar
+## Seguem exercícios feitos:
 
-Para o lar de hoje vai ser um exercício de pesquisa e um de manipulção de Jsons, arrays e objetos.
-
-Pesquise sobre os niveis de maturidade de Richardsson e responda:
 1) qual nivel de maturidade corresponde ao CRUD (Create, Read, Update, Delete)?
-2) qual a relação entre os metodos HTTP e o CRUD?
-3) o que é HATEOAS? Ele é obrigatório para que uma API seja considerada RESTfull?
-4) O que quer dizer quando dizemos que uma API é indepotente?
-5) Qual a diferença entre os métodos PUT e PATCH?
-6) Do arquivo filmes.js retorne no terminal o Titulo, Ano e Genero. (desafio: apresente cada Genero em linhas separadas)
-7) Do arquivo colors-rgb retorne no terminal o RGB como no exemplo: "aliceblue RGB: 240, 248, 255, 1"
-8) Do arquivo estados-cidade dado uma sigla retorne no terminal o lista de cidades
+#### Resposta: Maturidade 2
 
-As respostas devem ser realizadas no seu proprio repositório, dentro da pasta para-o-lar. As respostas das questões dissertativas devem ser colodas no arquivo RESPOSTAS.md
+2) qual a relação entre os metodos HTTP e o CRUD?
+#### Resposta: Os Métodos HTTP são os verbos que compõem a estrutura do CRUD.
+
+3) o que é HATEOAS? Ele é obrigatório para que uma API seja considerada RESTfull?
+#### Resposta: É um componente que faz parte da arquitetura REST, cujo objetivo é ajudar os clientes a consumirem uma API sem a necessidade de conhecimento prévio. Não é obrigatório.
+
+4) O que quer dizer quando dizemos que uma API é indepotente?
+### Resposta: Uma API é considerada idempotente se o resultado de uma requisição realizada com sucesso é independente do número de vezes que é executada.
+
+5) Qual a diferença entre os métodos PUT e PATCH?
+### Resposta: O PUT, é usado para alteração de um dado completo, O PATCH é usado para atualização parcial.
+
+

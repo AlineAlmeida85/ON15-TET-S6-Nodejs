@@ -26,8 +26,11 @@ const jsonDeFilmes = [
 //Apresente no console cada um dos atributos desse JS
 // COMEÇA O EXERCÍCIO
 
-
-
+ for (let i = 0; i < jsonDeFilmes.length; i++) {//{ percorrer a lista
+  let filme = jsonDeFilmes[i] 
+  console.log(filme.title) //o ponto pega o objeto da lista
+  console.log(filme.description)
+}
   
 
   
