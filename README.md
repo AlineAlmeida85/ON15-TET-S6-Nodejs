@@ -1,33 +1,62 @@
-# ON15-TET-S6-Nodejs
+# ON15-TodasEmTech-S6-Nodejs
 
-Feitos os desafios propostos na aula anterior
+### Conhecendo o NodeJs e praticando com exercícios
 
-## Vimos em aula: 
-- [x] Modelo Server/Client
-- [x]  URL, URI, IP e DNS
-- [x]  Protocolo HTTP e HTTPS
-- [x]  Request e Response
-- [x]  Interface de Programação de aplicativos
-- [x]  Web APIs e Rest
-- [x]  Manipulação de JSONs
-- [x]  Consumindo web APIs
-- [x]  Para o Lar
+## 🏁 Tópicos
 
-## Seguem exercícios feitos:
+  * 👉 [Título](#📌-título)
+  * 👉 [Descrição](#✒️-descrição)
+  * 👉 [Status](#⏱️-status)
+  * 👉 [Funcionalidades](#🔨-funcionalidades-🛠️)
+  * 👉 [Conclusão](#📚-conclusão)
+ 
+ 
+______________________________________________________________
 
-1) qual nivel de maturidade corresponde ao CRUD (Create, Read, Update, Delete)?
-#### Resposta: Maturidade 2
+## 📌 Título
 
-2) qual a relação entre os metodos HTTP e o CRUD?
-#### Resposta: Os Métodos HTTP são os verbos que compõem a estrutura do CRUD.
+#### ON15-TodasEmTech-S6-Nodejs
 
-3) o que é HATEOAS? Ele é obrigatório para que uma API seja considerada RESTfull?
-#### Resposta: É um componente que faz parte da arquitetura REST, cujo objetivo é ajudar os clientes a consumirem uma API sem a necessidade de conhecimento prévio. Não é obrigatório.
+______________________________________________________________
+## ✒️ Descrição
 
-4) O que quer dizer quando dizemos que uma API é indepotente?
-### Resposta: Uma API é considerada idempotente se o resultado de uma requisição realizada com sucesso é independente do número de vezes que é executada.
+#### Conhecendo o NodeJs e praticando com exercícios
 
-5) Qual a diferença entre os métodos PUT e PATCH?
-### Resposta: O PUT, é usado para alteração de um dado completo, O PATCH é usado para atualização parcial.
+______________________________________________________________
+## ⏱️ Status
+
+>  🚀 Aula Concluída com Sucesso!!! 👌 🚧
+
+______________________________________________________________
+## 🔨 Funcionalidades 🛠️
+  
+ - `1 ` Modelo Server/Client ✔️
+ - `2 ` URL, URI, IP e DNS ✔️
+ - `3 ` Protocolo HTTP e HTTPS ✔️
+ - `4 ` Request e Response ✔️
+ - `5 ` Interface de Programação de aplicativos ✔️
+ - `6 ` Web APIs e Rest ✔️
+ - `7 ` Manipulação de JSONs ✔️
+ - `8 ` Consumindo web APIs ✔️
+ - `9 ` Para o Lar ✔️
+______________________________________________________________
+## 📚 Conclusão 
+
+#### Nesta aula Conhecemos o NodeJs e praticamos com exercícios.
+______________________________________________________________
+
+⌨️ com ❤️ por [Aline Almeida](https://github.com/AlineAlmeida85) 😊
+
+##### spero que te agrade! 
+
+
+
+
+
+
+
+
+
+
 
 
